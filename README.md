@@ -22,8 +22,5 @@ Python, Pandas, Matplotlib, Google Colab
 - The top sub-categories were phones and chairs.
 - Sales were highest in November 2018.
 
-## ✅ Recommendations
-- Write 1-2 simple suggestions based on your insights.
-
 ## 📓 Full Analysis
 See [sales_data_analysis.ipynb](sales_data_analysis.ipynb) for the code and charts.
