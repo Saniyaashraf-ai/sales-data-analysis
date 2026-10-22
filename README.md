@@ -15,6 +15,10 @@ Exploratory analysis of retail sales data using Python and Pandas, to find which
 ## 🛠️ Tools Used
 Python, Pandas, Matplotlib, Google Colab
 
+## ✅ Recommendations
+- Plan stock, staffing and marketing ahead of the September to December peak.
+- Focus promotions on the top-selling sub-categories and the top region.
+
 ## 🔍 Key Insights
 - Total sales were about 2.26 million.
 - Technology was the top category (about 827,000), followed by Furniture (about 729,000) and Office Supplies (about 705,000).
